@@ -56,4 +56,4 @@ If you want to run the code I made, type in like :
    
    - [MultipleRNNCell](https://www.tensorflow.org/versions/r1.8/api_docs/python/tf/contrib/rnn/MultiRNNCell)
   
-   - [DynamicRNN](https://www.tensorflow.org/versions/master/api_docs/python/tf/nn/dynamic_rnn)
+   - [DynamicRNN](https://www.tensorflow.org/versions/r1.8/api_docs/python/tf/nn/dynamic_rnn)

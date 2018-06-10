@@ -37,3 +37,5 @@
   2. [Bidirectional LSTM-CRF Models for Sequence Tagging](https://arxiv.org/abs/1508.01991v1)
 
   3. [Understanding LSTM of colah](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+  4. [RNN Cell types of Tensorflow APIs](https://www.tensorflow.org/version/r1.8/api_docs/python/tf/nn/bidirectional_dynamic_rnn)

@@ -21,7 +21,7 @@
  
  - Python code version 
  
-   1. [A Single RNN or LSTM](https://github.com/hyunyoung2/Hyunyoung2_Autospacing/blob/master/A_Single_RNN_or_LSTM/A_single_RNN_Or_LSTM.py)
+   1. [A Single RNN or LSTM](https://github.com/hyunyoung2/Hyunyoung2_Autospacing/blob/master/A_Single_RNN_or_LSTM/A_Single_RNN_Or_LSTM.py)
 
 
 

@@ -32,10 +32,12 @@
 
  # Reference paper and site
  
-  1. [Wikipedia abut BIO tagging](https://en.wikipedia.org/wiki/Inside%E2%80%93outside%E2%80%93beginning_(tagging))
+  1. [Understanding LSTM of colah](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+  
+  2. [Wikipedia abut BIO tagging](https://en.wikipedia.org/wiki/Inside%E2%80%93outside%E2%80%93beginning_(tagging))
  
-  2. [Bidirectional LSTM-CRF Models for Sequence Tagging](https://arxiv.org/abs/1508.01991v1)
+  3. [Bidirectional LSTM-CRF Models for Sequence Tagging](https://arxiv.org/abs/1508.01991v1)
 
-  3. [Understanding LSTM of colah](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+  4. [Recurrent neural networks and LSTM tutorial in Python and TensorFlow](http://adventuresinmachinelearning.com/recurrent-neural-networks-lstm-tutorial-tensorflow/)
 
-  4. [RNN Cell types of Tensorflow APIs](https://www.tensorflow.org/versions/r1.8/api_guides/python/contrib.rnn#Core_RNN_Cells_for_use_with_TensorFlow_s_core_RNN_methods)
+  5. [RNN Cell types of Tensorflow APIs](https://www.tensorflow.org/versions/r1.8/api_guides/python/contrib.rnn#Core_RNN_Cells_for_use_with_TensorFlow_s_core_RNN_methods)

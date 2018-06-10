@@ -55,6 +55,8 @@ If you want to run the code I made, type in like :
 
  - blogs about RNN
  
+   - [WILDML](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
+   
    - [MONIK"S BLOG](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/)
    
    - [Recurrent Neural Networks in Tensorflow II](https://r2rt.com/recurrent-neural-networks-in-tensorflow-ii.html)
@@ -70,6 +72,8 @@ If you want to run the code I made, type in like :
  - Stackover flow questions about RNN: 
  
    - [The difference between dynamic and rnn](https://stackoverflow.com/questions/39734146/whats-the-difference-between-tensorflow-dynamic-rnn-and-rnn)
+   
+   - [Tensorflow dynamic RNN (LSTM): how to format input?](https://stackoverflow.com/questions/43341374/tensorflow-dynamic-rnn-lstm-how-to-format-input)
  
  - Another example codes
  

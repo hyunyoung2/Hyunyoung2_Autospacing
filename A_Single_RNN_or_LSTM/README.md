@@ -52,3 +52,16 @@ If you want to run the code I made, type in like :
    - [BasicLSTMCell](https://www.tensorflow.org/versions/r1.8/api_docs/python/tf/contrib/rnn/BasicLSTMCell)
   
    - [DynamicRNN](https://www.tensorflow.org/versions/r1.8/api_docs/python/tf/nn/dynamic_rnn)
+
+ - blogs about RNN
+ 
+   - [MONIK"S BLOG](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/)
+   
+   - [Recurrent Neural Networks in Tensorflow II](https://r2rt.com/recurrent-neural-networks-in-tensorflow-ii.html)
+   
+   - [Kor ver. usage of tensorflow API about RNN](https://kakalabblog.wordpress.com/2017/06/23/implementing-rnn-in-tensorflow/)
+   
+ - Stackover flow questions about RNN: 
+ 
+   - [The difference between dynamic and rnn](https://stackoverflow.com/questions/39734146/whats-the-difference-between-tensorflow-dynamic-rnn-and-rnn)
+ 

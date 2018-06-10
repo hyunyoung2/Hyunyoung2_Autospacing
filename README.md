@@ -7,8 +7,9 @@
  | 나 | 는 |   | 밥 | 을 |   | 먹 | 고 |   | 학 | 교 | 에 |   | 갔 | 다 | . |
  |----|----|---|----|----|---|----|----|---|----|----|----|---|----|----|---|
  | B  | I  |   | B  | I  |   | B  | I  |   | B  | I  | I  |   | B  | I  | I |
- 
- 
+
+ here code is for practice of LSTM and RNN on Tensorflow. 
+
  # Reference paper and site
  
   1. [Wikipedia abut BIO tagging](https://en.wikipedia.org/wiki/Inside%E2%80%93outside%E2%80%93beginning_(tagging))

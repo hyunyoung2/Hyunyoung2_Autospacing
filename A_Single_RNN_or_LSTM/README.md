@@ -30,14 +30,12 @@ If you want to run the code I made, type in like :
 
 > python3 A_single_RNN_Or_LSTM.py
 
-## the example code
-
-[Jupyter notebook version](https://nbviewer.jupyter.org/github/hyunyoung2/Hyunyoung2_Autospacing/blob/master/A_Single_RNN_or_LSTM/A_Single_RNN_Or_LSTM.ipynb) [python code version](https://github.com/hyunyoung2/Hyunyoung2_Autospacing/blob/master/A_Single_RNN_or_LSTM/A_single_RNN_Or_LSTM.py)
-
 > The following is my computational graph of A singel RNN(LSTM) for Korean Autospacing. 
 
 ![](https://raw.githubusercontent.com/hyunyoung2/Hyunyoung2_Autospacing/master/A_Single_RNN_or_LSTM/A_single_RNN_graph_of_my_model.png)
+## the example code
 
+[(Jupyter notebook version)](https://nbviewer.jupyter.org/github/hyunyoung2/Hyunyoung2_Autospacing/blob/master/A_Single_RNN_or_LSTM/A_Single_RNN_Or_LSTM.ipynb) [(python code version)](https://github.com/hyunyoung2/Hyunyoung2_Autospacing/blob/master/A_Single_RNN_or_LSTM/A_single_RNN_Or_LSTM.py)
 
 # Reference
   

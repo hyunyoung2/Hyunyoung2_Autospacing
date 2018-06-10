@@ -8,7 +8,9 @@
  |----|----|---|----|----|---|----|----|---|----|----|----|---|----|----|---|
  | B  | I  |   | B  | I  |   | B  | I  |   | B  | I  | I  |   | B  | I  | I |
 
- here code is for practice of LSTM and RNN on Tensorflow. 
+ here code is for practice of RNN(LSTM) on Tensorflow. 
+ 
+ So, the way to learn RNN is based on stochastic gradient descent. And This code only use a batch. 
 
  # Reference paper and site
  

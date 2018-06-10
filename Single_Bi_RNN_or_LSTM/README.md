@@ -56,7 +56,7 @@ If you want to run the code I made, type in like :
   
    - [DynamicRNN](https://www.tensorflow.org/versions/r1.8/api_docs/python/tf/nn/dynamic_rnn)
    
-   - [Bi-directonal dynamic RNN](https://www.tensorflow.org/version/r1.8/api_docs/python/tf/nn/bidirectional_dynamic_rnn)
+   - [Bi-directonal dynamic RNN](https://www.tensorflow.org/versions/r1.8/api_docs/python/tf/nn/bidirectional_dynamic_rnn)
   
  **If you want to make multiple layer of bi-directional RNN or LSTM**, refer to the followings :
  

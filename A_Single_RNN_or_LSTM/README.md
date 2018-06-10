@@ -47,8 +47,8 @@ If you want to run the code I made, type in like :
 
  - Tensorflow API: 
   
-  - [BasicRNNCell](https://www.tensorflow.org/versions/r1.8/api_docs/python/tf/contrib/rnn/BasicRNNCell)
+   - [BasicRNNCell](https://www.tensorflow.org/versions/r1.8/api_docs/python/tf/contrib/rnn/BasicRNNCell)
   
-  - [BasicLSTMCell](https://www.tensorflow.org/versions/r1.8/api_docs/python/tf/contrib/rnn/BasicLSTMCell)
+   - [BasicLSTMCell](https://www.tensorflow.org/versions/r1.8/api_docs/python/tf/contrib/rnn/BasicLSTMCell)
   
-  - [DynamicRNN](https://www.tensorflow.org/versions/master/api_docs/python/tf/nn/dynamic_rnn)
+   - [DynamicRNN](https://www.tensorflow.org/versions/master/api_docs/python/tf/nn/dynamic_rnn)

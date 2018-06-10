@@ -57,3 +57,7 @@ If you want to run the code I made, type in like :
    - [MultipleRNNCell](https://www.tensorflow.org/versions/r1.8/api_docs/python/tf/contrib/rnn/MultiRNNCell)
   
    - [DynamicRNN](https://www.tensorflow.org/versions/r1.8/api_docs/python/tf/nn/dynamic_rnn)
+
+ - blogs related to Multilayers RNN or LSTM 
+ 
+   - [Using the Multilayered LSTM API in TensorFlow (4/7)](https://medium.com/@erikhallstrm/using-the-tensorflow-multilayered-lstm-api-f6e7da7bbe40)

@@ -28,7 +28,7 @@ selected_rnn_type = rnn_type[1]
 
 If you want to run the code I made, type in like :
 
-> python3 A_single_RNN_Or_LSTM.py
+> python3 A_Single_RNN_Or_LSTM.py
 
 > The following is my computational graph of A singel RNN(LSTM) for Korean Autospacing. 
 
@@ -37,7 +37,7 @@ If you want to run the code I made, type in like :
 ## The example code
 
 - [(Jupyter notebook version)](https://nbviewer.jupyter.org/github/hyunyoung2/Hyunyoung2_Autospacing/blob/master/A_Single_RNN_or_LSTM/A_Single_RNN_Or_LSTM.ipynb) 
-- [(python code version)](https://github.com/hyunyoung2/Hyunyoung2_Autospacing/blob/master/A_Single_RNN_or_LSTM/A_single_RNN_Or_LSTM.py)
+- [(python code version)](https://github.com/hyunyoung2/Hyunyoung2_Autospacing/blob/master/A_Single_RNN_or_LSTM/A_Single_RNN_Or_LSTM.py)
 
 # Reference
   

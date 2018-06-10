@@ -65,6 +65,6 @@ If you want to run the code I made, type in like :
  
    - [The difference between dynamic and rnn](https://stackoverflow.com/questions/39734146/whats-the-difference-between-tensorflow-dynamic-rnn-and-rnn)
  
- - Another example code
+ - Another example codes
  
    - [aymericdamien](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/recurrent_network.py)

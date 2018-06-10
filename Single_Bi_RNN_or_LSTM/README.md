@@ -26,17 +26,17 @@ selected_rnn_type = rnn_type[1]
 
 If you want to run the code I made, type in like :
 
-> python3 Multiple_layers_RNN_or_LSTM.py
+> python3 A_Single_Bi_RNN_or_Bi_LSTM.py
 
 > The following is my computational graph of A singel RNN(LSTM) for Korean Autospacing. 
 
-![])
+![](https://raw.githubusercontent.com/hyunyoung2/Hyunyoung2_Autospacing/master/Single_Bi_RNN_or_LSTM/Single_bi_RNN_or_LSTM.png)
 
 ## The example code
 
-- [(Jupyter notebook version)]() 
+- [(Jupyter notebook version)](https://nbviewer.jupyter.org/github/hyunyoung2/Hyunyoung2_Autospacing/blob/master/Multiple_layers_RNN_or_LSTM/Multiple_layers_RNN_or_LSTM.ipynb) 
 
-- [(python code version)]()
+- [(python code version)](https://github.com/hyunyoung2/Hyunyoung2_Autospacing/blob/master/Single_Bi_RNN_or_LSTM/A_Single_Bi_RNN_or_Bi_LSTM.py)
 
 # Reference
   
@@ -54,10 +54,13 @@ If you want to run the code I made, type in like :
    
    - [MultipleRNNCell](https://www.tensorflow.org/versions/r1.8/api_docs/python/tf/contrib/rnn/MultiRNNCell)
   
-   - [DynamicRNN](https://www.tensorflow.org/versions/master/api_docs/python/tf/nn/dynamic_rnn)
+   - [DynamicRNN](https://www.tensorflow.org/versions/r1.8/api_docs/python/tf/nn/dynamic_rnn)
    
    - [Bi-directonal dynamic RNN](https://www.tensorflow.org/version/r1.8/api_docs/python/tf/nn/bidirectional_dynamic_rnn)
   
+ **If you want to make multiple layer of bi-directional RNN or LSTM**, refer to the followings :
  
+  - [stack bidirectional dynamic RNN of tensorflow APIs](https://www.tensorflow.org/version/r1.8/api_docs/python/tf/contrib/rnn/stack_bidirectional_dynamic_rnn)
 
+  - [Stackoverflow's way](https://stackoverflow.com/questions/46189318/how-to-use-multilayered-bidirectional-lstm-in-tensorflow)
  

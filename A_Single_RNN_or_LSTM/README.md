@@ -61,13 +61,15 @@ If you want to run the code I made, type in like :
    
    - [Recurrent Neural Networks in Tensorflow II](https://r2rt.com/recurrent-neural-networks-in-tensorflow-ii.html)
    
-   - [Kor ver. usage of tensorflow API about RNN](https://kakalabblog.wordpress.com/2017/06/23/implementing-rnn-in-tensorflow/)
+   - [Introduction to Recurrent Networks in TensorFlow](https://danijar.com/introduction-to-recurrent-networks-in-tensorflow/)
    
    - [LSTM by Example using Tensorflow](https://towardsdatascience.com/lstm-by-example-using-tensorflow-feb0c1968537)
    
    - [Understanding LSTM in Tensorflow(MNIST dataset)](https://jasdeep06.github.io/posts/Understanding-LSTM-in-Tensorflow-MNIST/)
    
    - [How to build a Recurrent Neural Network in TensorFlow (1/7)](https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767)
+   
+   - [Kor ver. usage of tensorflow API about RNN](https://kakalabblog.wordpress.com/2017/06/23/implementing-rnn-in-tensorflow/)
    
  - Stackover flow questions about RNN: 
  

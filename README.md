@@ -20,12 +20,15 @@
 
    2. [Multiple layers RNN or LSTM](https://nbviewer.jupyter.org/github/hyunyoung2/Hyunyoung2_Autospacing/blob/master/Multiple_layers_RNN_or_LSTM/Multiple_layers_RNN_or_LSTM.ipynb) under the Multiple_layers_RNN_or_LSTM directory
 
+   3. [Single Bi-RNN or Bi-LSTM](https://nbviewer.jupyter.org/github/hyunyoung2/Hyunyoung2_Autospacing/blob/master/Multiple_layers_RNN_or_LSTM/Multiple_layers_RNN_or_LSTM.ipynb) under the Single_Bi_RNN_or_LSTM directory
 
  - Python code version 
  
    1. [A Single RNN or LSTM](https://github.com/hyunyoung2/Hyunyoung2_Autospacing/blob/master/A_Single_RNN_or_LSTM/A_Single_RNN_Or_LSTM.py) under the A_Single_RNN_or_LSTM directory
 
    2. [Multiple layers RNN or LSTM](https://github.com/hyunyoung2/Hyunyoung2_Autospacing/blob/master/Multiple_layers_RNN_or_LSTM/Multiple_layers_RNN_or_LSTM.py) under the Multiple_layers_RNN_or_LSTM directory
+   
+   3. [Single Bi-RNN or Bi-LSTM](https://github.com/hyunyoung2/Hyunyoung2_Autospacing/blob/master/Single_Bi_RNN_or_LSTM/A_Single_Bi_RNN_or_Bi_LSTM.py) under the Single_Bi_RNN_or_LSTM directory
 
  # Reference paper and site
  

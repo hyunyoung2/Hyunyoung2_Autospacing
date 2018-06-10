@@ -61,6 +61,12 @@ If you want to run the code I made, type in like :
    
    - [Kor ver. usage of tensorflow API about RNN](https://kakalabblog.wordpress.com/2017/06/23/implementing-rnn-in-tensorflow/)
    
+   - [LSTM by Example using Tensorflow](https://towardsdatascience.com/lstm-by-example-using-tensorflow-feb0c1968537)
+   
+   - [Understanding LSTM in Tensorflow(MNIST dataset)](https://jasdeep06.github.io/posts/Understanding-LSTM-in-Tensorflow-MNIST/)
+   
+   - [How to build a Recurrent Neural Network in TensorFlow (1/7)](https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767)
+   
  - Stackover flow questions about RNN: 
  
    - [The difference between dynamic and rnn](https://stackoverflow.com/questions/39734146/whats-the-difference-between-tensorflow-dynamic-rnn-and-rnn)

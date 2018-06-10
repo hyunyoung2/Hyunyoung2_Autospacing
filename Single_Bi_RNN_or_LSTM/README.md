@@ -41,6 +41,8 @@ If you want to run the code I made, type in like :
 # Reference
   
  - [For BasicLSTMCell, THe paper](https://arxiv.org/abs/1409.2329v5)
+ 
+ - [For bi-directional RNN, The paper](https://arxiv.org/abs/1303.5778v1)
 
  - [Recurrent Neural Networks Tutrorial of Tensorflow](https://www.tensorflow.org/tutorials/recurrent)
  
@@ -63,6 +65,8 @@ If you want to run the code I made, type in like :
  **If you want to make multiple layer of bi-directional RNN or LSTM**, refer to the followings :
  
   - [stack bidirectional dynamic RNN of tensorflow APIs](https://www.tensorflow.org/version/r1.8/api_docs/python/tf/contrib/rnn/stack_bidirectional_dynamic_rnn)
+  
+  - [statck bidirectional RNN of tensorflow APIs](https://www.tensorflow.org/api_docs/python/tf/contrib/rnn/stack_bidirectional_rnn)
 
   - [Stackoverflow's way](https://stackoverflow.com/questions/46189318/how-to-use-multilayered-bidirectional-lstm-in-tensorflow)
  

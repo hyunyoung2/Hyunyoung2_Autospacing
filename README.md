@@ -35,3 +35,5 @@
   1. [Wikipedia abut BIO tagging](https://en.wikipedia.org/wiki/Inside%E2%80%93outside%E2%80%93beginning_(tagging))
  
   2. [Bidirectional LSTM-CRF Models for Sequence Tagging](https://arxiv.org/abs/1508.01991v1)
+
+  3. [Understanding LSTM of colah](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)

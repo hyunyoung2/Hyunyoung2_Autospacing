@@ -45,6 +45,8 @@ If you want to run the code I made, type in like :
  - [Recurrent Neural Networks Tutrorial of Tensorflow](https://www.tensorflow.org/tutorials/recurrent)
  
  - [Bi-directional blog](https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html)
+ 
+ - [Bi-directional example](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/bidirectional_rnn.py)
 
  - Tensorflow API: 
   
@@ -63,4 +65,5 @@ If you want to run the code I made, type in like :
   - [stack bidirectional dynamic RNN of tensorflow APIs](https://www.tensorflow.org/version/r1.8/api_docs/python/tf/contrib/rnn/stack_bidirectional_dynamic_rnn)
 
   - [Stackoverflow's way](https://stackoverflow.com/questions/46189318/how-to-use-multilayered-bidirectional-lstm-in-tensorflow)
+ 
  
